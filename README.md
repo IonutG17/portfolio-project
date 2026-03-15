@@ -6,3 +6,5 @@ Technologies:
 - HTML
 - CSS
 - Git
+
+- This line was added directly on GitHub for practice purposes
