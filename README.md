@@ -8,4 +8,4 @@ Technologies:
 - Git
 
 
-# This line was added directly on GitHub for practice purposes and for using the "git pull" command.
+(This line was added directly on GitHub for practice purposes and for using the "git pull" command.)
