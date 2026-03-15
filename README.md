@@ -7,4 +7,5 @@ Technologies:
 - CSS
 - Git
 
-- This line was added directly on GitHub for practice purposes
+
+# This line was added directly on GitHub for practice purposes and for using the "git pull" command.
